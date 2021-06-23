@@ -17,7 +17,7 @@ _Una vez instalado, procedemos a crear el ambiente virtual_
 2) virtualenv <nombre del ambiente>
 ```
 
-###Procedemos a activar el ambiente 🔧
+###  Luego pasamos a activar el ambiente 🔧
 ```
 3) (ambiente)\Scripts\activate.bat 
 ```
