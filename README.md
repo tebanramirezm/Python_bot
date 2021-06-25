@@ -24,7 +24,7 @@ _Una vez instalado, procedemos a crear el ambiente virtual_
 
 _Luego procedemos a instalar Selenium en nuestro ambiente_
 ```
-pip install selenium 
+pip install -r requirements.txt 
 ```
 
 _Luego, se procede a instalar el webdriver de Chromer a través del siguiente enlace:_
